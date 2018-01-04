@@ -1,6 +1,6 @@
 name: fn-example/string-reverse
 version: 0.0.1
-runtime: java
+runtime: svm
 timeout: 30
 format: http
 cmd: com.fnproject.fn.examples.StringReverse::reverse

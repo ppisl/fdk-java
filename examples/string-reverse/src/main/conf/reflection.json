@@ -1,0 +1,17 @@
+
+[
+    {
+        "name" : "com.fnproject.fn.examples.StringReverse",
+	"methods" : [
+	    { "name" : "reverse" },
+	    { "name" : "<init>"}
+	]
+    },
+    {
+        "name" : "com.oracle.svm.fn.annotation.Register",
+        "methods" : [
+            { "name" : "<init>"},
+            { "name" : "registerRepetitive" }
+        ]
+    }
+]
