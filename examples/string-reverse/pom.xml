@@ -7,7 +7,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <fdk.version>1.0.55</fdk.version>
     </properties>
 
     <groupId>com.fnproject.fn.examples</groupId>
