@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "com.fnproject.fn.examples.RegexQuery",
+	"methods" : [
+	    { "name" : "query" },
+	    { "name" : "<init>"}
+	]
+    },
+    {
+        "name" : "com.fnproject.fn.examples.Match",
+	"allDeclaredFields" : "true",
+	"allPublicFields" : "true"
+    },
+    {
+	"name" : "com.fnproject.fn.examples.Query",
+	"allDeclaredFields" : "true",
+	"allPublicFields" : "true",
+	"methods" : [
+	    { "name" : "<init>"}
+	]
+     },
+     {
+        "name" : "com.fnproject.fn.examples.Response",
+        "allDeclaredFields" : "true",
+        "allPublicFields" : "true"
+     }
+]
