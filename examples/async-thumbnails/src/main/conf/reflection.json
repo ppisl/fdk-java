@@ -1,0 +1,9 @@
+[
+   {
+        "name" : "com.fnproject.fn.examples.ThumbnailsFunction",
+	"methods" : [
+	    { "name" : "handleRequest"},
+	    { "name" : "<init>"}
+	]
+    }
+]
