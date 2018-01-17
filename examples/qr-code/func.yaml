@@ -1,6 +1,6 @@
 name: fn-example/qr-code-gen
 version: 0.0.1
-runtime: java
+runtime: svm
 cmd: com.fnproject.fn.examples.QRGen::create
 format: http
 timeout: 30

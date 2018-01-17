@@ -1,0 +1,8 @@
+[
+    {
+        "name" : "javax.imageio.ImageIO",
+	"methods" : [
+	    { "name" : "<init>"}
+	]
+    }
+]
